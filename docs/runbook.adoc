@@ -2,7 +2,11 @@
 
 How to run and maintain the service on staging or production servers.
 
-### Details:
+### Configuration:
+
+* links to the chef repo? Specifically the config files?
+
+### Misc Details:
 
 * jenkins job to build and deploy?
 * server startup / shutdown process
