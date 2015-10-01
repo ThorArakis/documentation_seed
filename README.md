@@ -18,6 +18,7 @@ ie:
 ### Any other unscriptable setup steps
 - Configure Nginx in some wacky way
 - Proxy your maven repo to nexus
+- Set up a certain mysql account or schema
 
 ### Compile / Build / Test
 The commands and flags to build the project.

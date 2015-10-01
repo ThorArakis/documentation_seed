@@ -1,0 +1,17 @@
+# Service Diagnostics Info
+All the links to figure out where and how the service is running in a given envrionment.
+
+## Graphite dashboards
+Links to all the dashboards to check on the service:
+
+Production    |  Staging
+------------- | --------------
+Link for prd  | Link for staging
+
+## Log locations / links
+
+Production    |  Staging
+------------- | --------------
+Link for prd  | Link for staging
+
+
