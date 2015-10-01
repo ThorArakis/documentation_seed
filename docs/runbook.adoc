@@ -1,6 +1,6 @@
 
 - jenkins job to build and deploy?
 - server startup / shutdown process
--- do we need to drain a queue?
--- drop it from a pool?
-- cmd to check if it's running
+  - do we need to drain a queue?
+  - drop it from a pool?
+- basic or detailed healthchecks
