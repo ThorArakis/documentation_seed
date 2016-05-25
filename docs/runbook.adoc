@@ -1,15 +1,26 @@
 # Service runbook
 
-How to run and maintain the service on staging or production servers.
+How to deploy and run the service on staging or production servers.
+
+### Versioning:
+
+* Which files need to be modified to bump the service's version?
+* Is there a release process or release notes process?
+
+### Deployment:
+
+* Do you use a jenkins job to build and deploy?
+* Is this a deployer job or is there a different process?
 
 ### Configuration:
 
 * links to the chef repo? Specifically the config files?
 
+### Start / Stop on the server
+
+* do we need to drain a queue?
+* drop it from a pool?
+
 ### Misc Details:
 
-* jenkins job to build and deploy?
-* server startup / shutdown process
-** do we need to drain a queue?
-** drop it from a pool?
-* healthchecks (basic and/or detailed)
+* Any other details that are relevant when debugging a server
